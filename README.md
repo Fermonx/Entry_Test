@@ -11,7 +11,7 @@
 
 ### Instructions
 
-1. Clone the project 
+1. Clone the project (git clone https://yeeplymobile@bitbucket.org/yeeplymobile/yeeply-test-frontend.git)
 2. Start the server: php bin/console server:run
 3. Access to project in URL: http://127.0.0.1:8000
 
