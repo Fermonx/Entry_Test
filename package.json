@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "encore dev-server --hot",
+    "watch": "encore dev --watch",
+    "build": "encore production"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.20.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^14",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "dependencies": {
+    "css-loader": "^1.0.0"
+  }
+}
